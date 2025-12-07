@@ -32,29 +32,3 @@ User profile management
 
 Admin panel for products & orders
 
-🔑 Environment Variables
-Backend (backend/.env)
-MONGO_URI=
-ORIGIN=http://localhost:3000
-EMAIL=
-PASSWORD=
-SECRET_KEY=
-
-Frontend (frontend/.env)
-REACT_APP_BASE_URL=http://localhost:8000
-
-▶️ Run the Project
-Backend
-cd backend
-npm run dev
-
-Frontend
-cd frontend
-npm start
-
-🌍 URLs
-
-Frontend: http://localhost:3000
-
-Backend: http://localhost:8000
-"# CodecTech" 
